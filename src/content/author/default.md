@@ -1,6 +1,6 @@
 ---
-title: 'Hello Astro'
+title: 'Nuovotaka'
 image: ./default.png
-contact: 'info@hellotham.com'
-description: 'Astronaut'
+contact: 'info@infomail.com'
+description: 'Nuovotaka'
 ---
