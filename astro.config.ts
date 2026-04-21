@@ -22,8 +22,8 @@ export default defineConfig({
       include: ['astro-leaflet > leaflet'],
     }
   },
-  site: 'https://hellotham.github.io',
-  base: '/hello-astro/',
+  site: 'https://blog.nuovotaka.com/',
+  base: '/',
   image: {
     layout: 'constrained'
   },

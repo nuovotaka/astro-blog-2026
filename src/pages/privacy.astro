@@ -1,0 +1,83 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import Base from '../layouts/base.astro'
+import PageHero from '../components/pagehero.astro'
+import coverSVG from '../assets/svg/undraw/undraw_privacy_protection.svg'
+import socialImage from '../assets/undraw/undraw_privacy_protection.png'
+
+const frontmatter: CollectionEntry<'page'>['data'] = {
+  title: 'Privacy',
+  description: 'Our policy regarding information collection and use',
+  coverSVG: coverSVG,
+  socialImage: socialImage
+}
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero
+      title={frontmatter.title}
+      description={frontmatter.description}
+      coverSVG={frontmatter.coverSVG}
+      socialImage={frontmatter.socialImage}
+    />
+  </header>
+  <main itemprop="mainContentOfPage">
+    <section class="mx-auto mb-20 max-w-7xl text-gray-800 dark:text-gray-100">
+      <div class="block bg-white lg:my-8 dark:bg-gray-900">
+        <div class="flex flex-wrap items-start">
+          <p>
+            <b>Privacy</b>
+            <br />
+            当サイトにおける個人情報の取扱いについて、以下のとおりにプライバシーポリシーを定めます。 <br
+            />
+            <b>Cookie について</b><br />
+            当サイトでは、一部のコンテンツにおいて Cookie を利用しています。 <br />
+            Cookie とは、webコンテンツへのアクセスに関する情報であり、お名前・メールアドレス・住所・電話番号は含まれません。
+            <br />
+            また、お使いのブラウザ設定から Cookie を無効にすることが可能です。<br />
+            <b>広告の配信について</b><br />
+            当サイトは第三者配信の広告サービス「Google アドセンス」を利用しています。 <br />
+            広告配信事業者は、ユーザーの興味に応じた広告を表示するために Cookieを使用することがあります。
+            <br />
+            Google アドセンスの詳細は「Google ポリシーと規約」をご覧ください。 <br />
+            このプログラムにより、第三者がコンテンツ、及び宣伝を提供し、サイトの訪問者から直接情報を収集し、訪問者のブラウザに
+            cookie を設定したり、これを認識したりする場合があります。 <br />
+            <b>アクセス解析ツールについて</b><br />
+            当サイトでは、Google によるアクセス解析ツール「Googleアナリティクス」を利用しています。 <br
+            />
+            この Googleアナリティクスはトラフィックデータの収集のために Cookie を使用しています。<br
+            />
+            このトラフィックデータは匿名で収集されており、個人を特定するものではありません。<br />
+            この機能は Cookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。<br
+            />
+            この規約に関して、詳しくは
+            <a href="https://marketingplatform.google.com/about/analytics/terms/jp/">こちら</a> 、または
+            <a href="https://policies.google.com/technologies/partner-sites?hl=ja">こちら</a>
+            をクリックしてください。<br />
+            <b>著作権について</b><br />
+            当サイトで掲載している画像の著作権・肖像権等は各権利所有者に帰属します。権利を侵害する目的ではありません。<br
+            />
+            記事の内容や掲載画像等に問題がある場合、各権利所有者様本人が X(ツイッター)の DMでご連絡下さい。本人確認後、対応致します。<br
+            />
+            また、当サイトのコンテンツ（記事・画像・その他プログラム）について、許可なく転載することを禁じます。<br
+            />
+            引用の際は、当サイトへのリンクを掲載するとともに、転載であることを明記してください <br
+            />
+            <b>免責事項</b><br />
+            当サイトからリンクやバナーなどによって他のサイトに移動した場合、移動先サイトで提供される情報、サービス等について一切の責任を負いません。<br
+            />
+            当サイトのコンテンツについて、可能な限り正確な情報を掲載するよう努めていますが、誤情報が入り込んだり、情報が古くなっている場合があります。
+            <br />
+            当サイトに掲載された内容によって生じた損害等の一切の責任を負いかねますのでご了承ください。<br
+            />
+            <b>プライバシーポリシーの変更について</b><br />
+            当サイトは、個人情報に関して適用される日本の法令を遵守するとともに、本ポリシーの内容を適宜見直しその改善に努めます。<br
+            />
+            修正された最新のプライバシーポリシーは常に本ページにて開示されます。<br />
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+</Base>

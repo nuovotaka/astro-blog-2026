@@ -1,0 +1,39 @@
+---
+import type { CollectionEntry } from 'astro:content'
+import Base from '../layouts/base.astro'
+import PageHero from '../components/pagehero.astro'
+import coverSVG from '../assets/svg/undraw/undraw_about_me.svg'
+import socialImage from '../assets/undraw/undraw_about_me.png'
+
+const frontmatter: CollectionEntry<'page'>['data'] = {
+  title: 'About me',
+  description: '私について',
+  coverSVG: coverSVG,
+  socialImage: socialImage
+}
+---
+
+<Base frontmatter={frontmatter}>
+  <header>
+    <PageHero
+      title={frontmatter.title}
+      description={frontmatter.description}
+      coverSVG={frontmatter.coverSVG}
+      socialImage={frontmatter.socialImage}
+    />
+  </header>
+  <main itemprop="mainContentOfPage">
+    <section class="mx-auto mb-20 max-w-7xl text-gray-800 dark:text-gray-100">
+      <div class="block bg-white lg:my-8 dark:bg-gray-900">
+        <div class="flex flex-wrap items-start">
+          <p>
+            時々更新ブログ<br />
+            Mac 関連のことや日常的な事などを書いていきます。<br />
+            最近は病気の事とお菓子作りについてが多いです。<br />
+            レザークラフトはお休み中。<br />
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+</Base>

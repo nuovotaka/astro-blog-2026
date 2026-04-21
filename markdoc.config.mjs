@@ -8,5 +8,18 @@ export default defineMarkdocConfig({
         folder: { type: String },
       }
     },
+    todo: {
+      render: component('./src/components/Todolist.astro'),
+      attributes: {
+        type: { type: String },
+      },
+    },
+    Youtube: {
+      render: component('./src/components/YouTubeEmbed.astro'),
+      attributes: {
+        id: { type: String },
+      },
+      selfClosing: true,
+    },
   },
 })

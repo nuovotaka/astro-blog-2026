@@ -18,24 +18,24 @@ const otherPosts = posts.slice(1, 5)
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-2xl py-8 sm:py-12 lg:max-w-none lg:py-16">
       <div class="flex flex-row items-center">
-        <h2 class="text-2xl font-extrabold text-purple-800 md:text-4xl dark:text-purple-200">
+        <h2 class="text-2xl font-extrabold text-orange-800 md:text-4xl dark:text-orange-200">
           Our Latest Articles
         </h2>
         <a
           href={import.meta.env.BASE_URL + 'blog'}
-          class="mt-2 ml-4 inline-block rounded-md bg-purple-600 px-2 py-2 text-base font-bold text-white hover:bg-pink-600 md:px-6 md:py-3 md:text-lg dark:bg-purple-300 dark:text-black dark:hover:bg-pink-300"
+          class="mt-2 ml-4 inline-block rounded-md bg-orange-600 px-2 py-2 text-base font-bold text-white hover:bg-pink-600 md:px-6 md:py-3 md:text-lg dark:bg-orange-300 dark:text-black dark:hover:bg-pink-300"
         >
           All Articles
         </a>
         <a
           href={import.meta.env.BASE_URL + 'categories'}
-          class="mt-2 ml-4 inline-block rounded-md bg-purple-100 px-2 py-2 text-base font-bold text-purple-800 hover:bg-pink-200 md:px-6 md:py-3 md:text-lg dark:bg-purple-900 dark:text-purple-100 dark:hover:bg-pink-900"
+          class="mt-2 ml-4 inline-block rounded-md bg-orange-100 px-2 py-2 text-base font-bold text-orange-800 hover:bg-pink-200 md:px-6 md:py-3 md:text-lg dark:bg-orange-900 dark:text-orange-100 dark:hover:bg-pink-900"
         >
           Categories
         </a>
         <a
           href={import.meta.env.BASE_URL + 'tags'}
-          class="mt-2 ml-4 inline-block rounded-md bg-purple-100 px-2 py-2 text-base font-bold text-purple-800 hover:bg-pink-200 md:px-6 md:py-3 md:text-lg dark:bg-purple-900 dark:text-purple-100 dark:hover:bg-pink-900"
+          class="mt-2 ml-4 inline-block rounded-md bg-orange-100 px-2 py-2 text-base font-bold text-orange-800 hover:bg-pink-200 md:px-6 md:py-3 md:text-lg dark:bg-orange-900 dark:text-orange-100 dark:hover:bg-pink-900"
         >
           Tags
         </a>
@@ -49,14 +49,14 @@ const otherPosts = posts.slice(1, 5)
                 <img
                   src={newestPost.data.coverSVG.src}
                   alt={newestPost.data.title + ' featured image'}
-                  class="h-64 w-full rounded-md bg-purple-100 object-cover md:h-80 dark:bg-purple-800"
+                  class="h-64 w-full rounded-md bg-orange-100 object-cover md:h-80 dark:bg-orange-800"
                   loading="lazy"
                 />
               ) : (
                 <Image
                   src={newestPost.data.coverImage || newestPost.data.socialImage || DefaultImage}
                   alt={newestPost.data.title + ' featured image'}
-                  class="h-64 w-full rounded-md bg-purple-100 object-cover md:h-80 dark:bg-purple-800"
+                  class="h-64 w-full rounded-md bg-orange-100 object-cover md:h-80 dark:bg-orange-800"
                   loading="lazy"
                 />
               )
@@ -67,7 +67,7 @@ const otherPosts = posts.slice(1, 5)
           </div>
           <a href={import.meta.env.BASE_URL + 'blog/' + newestPost.id}>
             <h1
-              class="mt-2 text-4xl leading-tight font-bold text-purple-600 hover:text-pink-600 dark:text-purple-300 dark:hover:text-pink-300"
+              class="mt-2 text-4xl leading-tight font-bold text-orange-600 hover:text-pink-600 dark:text-orange-300 dark:hover:text-pink-300"
             >
               {newestPost.data.title}
             </h1>
@@ -84,7 +84,7 @@ const otherPosts = posts.slice(1, 5)
           </p>
           <a
             href={import.meta.env.BASE_URL + 'blog/' + newestPost.id}
-            class="mt-2 inline-block rounded-md bg-purple-600 px-6 py-3 text-white hover:bg-pink-600 dark:bg-purple-300 dark:text-black dark:hover:bg-pink-300"
+            class="mt-2 inline-block rounded-md bg-orange-600 px-6 py-3 text-white hover:bg-pink-600 dark:bg-orange-300 dark:text-black dark:hover:bg-pink-300"
           >
             Read more
             <span class="sr-only">{newestPost.data.title}</span>
@@ -99,14 +99,14 @@ const otherPosts = posts.slice(1, 5)
                     <img
                       src={post.data.coverSVG.src}
                       alt={post.data.title + ' featured image'}
-                      class="block h-64 w-full rounded-md bg-purple-100 object-cover p-4 md:h-32 md:p-0 lg:block dark:bg-purple-800"
+                      class="block h-64 w-full rounded-md bg-orange-100 object-cover p-4 md:h-32 md:p-0 lg:block dark:bg-orange-800"
                       loading="lazy"
                     />
                   ) : (
                     <Image
                       src={post.data.coverImage || post.data.socialImage || DefaultImage}
                       alt={post.data.title + ' featured image'}
-                      class="block h-64 w-full rounded-md bg-purple-100 object-cover p-4 md:h-32 md:p-0 lg:block dark:bg-purple-800"
+                      class="block h-64 w-full rounded-md bg-orange-100 object-cover p-4 md:h-32 md:p-0 lg:block dark:bg-orange-800"
                       loading="lazy"
                     />
                   )}

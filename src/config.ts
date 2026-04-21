@@ -7,46 +7,45 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Hello Astro',
+  title: 'dev Nuovotaka',
   description: 'An Astro starter for corporate/marketing/blog websites.',
   author: {
-    name: 'Chris Tham',
-    twitter: '@chris1tham',
-    url: 'https://christham.net',
-    email: 'chris@christham.net',
-    summary: 'Outrageous actualiser.'
+    name: 'Nuovotaka',
+    twitter: '@nuovotaka',
+    url: 'https://nuovotaka.com',
+    email: '',
+    summary: ''
   },
   org: {
-    name: 'Hello Tham',
-    twitter: '@hellothamcom',
-    url: 'https://hellotham.com',
-    email: 'info@hellotham.com',
-    summary:
-      'Hello Tham is a boutique management consulting firm. We specialise in Business and IT strategies, operating models, strategic roadmaps, enterprise architecture, analytics and business process design.'
+    name: 'Nuovotaka',
+    twitter: '@nuovotaka',
+    url: 'https://nuovotaka.com',
+    email: '',
+    summary: ''
   },
-  location: 'Rivendell, Middle Earth',
-  latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/hellotham/hello-astro',
+  location: 'Tokyo, Japan',
+  latlng: [35.681236, 139.767125] as [number, number],
+  repository: 'https://github.com/nuovotaka',
   buildTime: new Date()
 }
 
-export { default as Logo } from './assets/svg/astro/astro-icon-dark.svg'
-export { default as LogoImage } from './assets/astro/astro-logo-dark.png'
+export { default as Logo } from './assets/svg/astro/devnuovotaka-logo.svg'
+export { default as LogoImage } from './assets/astro/devnuovotaka-logo.png'
 export { default as FeaturedSVG } from './assets/svg/undraw/undraw_design_inspiration.svg'
-export { default as DefaultSVG } from './assets/svg/undraw/undraw_my_feed.svg'
-export { default as DefaultImage } from './assets/undraw/undraw_my_feed.png'
+export { default as DefaultSVG } from './assets/svg/undraw/undraw_blog_post.svg'
+export { default as DefaultImage } from './assets/undraw/undraw_blog_post.png'
 
 export const NavigationLinks = [
   { name: 'Home', href: '' },
   { name: 'About', href: 'about' },
   { name: 'Contact', href: 'contact' },
   { name: 'Blog', href: 'blog' },
-  { name: 'Docs', href: 'doc/introduction' }
+  // { name: 'Docs', href: 'doc/introduction' }
 ]
 
-export const PAGE_SIZE = 8
+export const PAGE_SIZE = 15
 
-export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
+export const GITHUB_EDIT_URL = `https://github.com/nuovotaka/`
 
 export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
 
