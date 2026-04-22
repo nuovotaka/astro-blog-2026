@@ -4,7 +4,7 @@ title: 'ブルーベリー・パウンドケーキの作り方（備忘録）'
 description: '先日、ブルーベリーのパウンドケーキを作って美味しくできたのでその記録。'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-03-13T09:00:00+09:00
+pubDate: 2023-03-13T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

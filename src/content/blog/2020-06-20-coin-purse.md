@@ -2,7 +2,7 @@
 draft: false
 title: 小銭入れを作りました
 description: nuovotaka blog
-publishDate: 2020-06-20T09:00:00+09:00
+pubDate: 2020-06-20T09:00:00+09:00
 author: nuovotaka
 categories:
   - leathercraft

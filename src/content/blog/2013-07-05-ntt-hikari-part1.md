@@ -2,7 +2,7 @@
 draft: false
 title: 'NTT-西 Next 隼 品目変更工事 完了！'
 description: nuovotaka blog
-publishDate: 2013-07-05T09:00:00+09:00
+pubDate: 2013-07-05T09:00:00+09:00
 author: nuovotaka
 categories:
   - general

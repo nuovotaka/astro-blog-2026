@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-27T09:00:00+09:00
+pubDate: 2022-10-27T09:00:00+09:00
 title: '2022/10/27 の治療 ❤️‍🩹 リスト'
 description: 'エンドキサンパルス療法を受けます'
 author: nuovotaka

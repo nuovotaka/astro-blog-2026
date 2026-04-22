@@ -2,7 +2,7 @@
 draft: false
 title: '調味料も注意が必要だと再認識'
 description: nuovotaka blog
-publishDate: 2015-06-13T09:00:00+09:00
+pubDate: 2015-06-13T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

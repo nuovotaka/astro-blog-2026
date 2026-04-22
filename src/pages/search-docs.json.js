@@ -19,7 +19,7 @@ let documents = await Promise.all(
       title: post.data.title,
       description: post.data.description,
       author: `${author.data.title} (${author.data.contact})`,
-      publishDate: post.data.publishDate,
+      pubDate: post.data.pubDate,
       categories: categories && categories.map((category) => category.data.title),
       tags: post.data.tags
     }
@@ -31,7 +31,7 @@ documents = documents.concat(
     title: doc.data.title,
     description: doc.data.description,
     author: `${SiteMetadata.author.name} (${SiteMetadata.author.email})`,
-    publishDate: SiteMetadata.buildTime,
+    pubDate: SiteMetadata.buildTime,
     categories: 'documentation',
     tags: ['documentation']
   }))

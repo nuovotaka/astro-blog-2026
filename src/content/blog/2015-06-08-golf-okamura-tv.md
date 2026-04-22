@@ -2,7 +2,7 @@
 draft: false
 title: 'テレビで「マスク女子ゴルファー」岡村さんを観て'
 description: nuovotaka blog
-publishDate: 2015-06-08T09:00:00+09:00
+pubDate: 2015-06-08T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

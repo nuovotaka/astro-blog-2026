@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-04T09:00:00+09:00
+pubDate: 2022-10-04T09:00:00+09:00
 title: '本日の入院中のメニュー'
 description: '10/04(火)の治療 ❤️‍🩹 リスト'
 author: nuovotaka
@@ -14,7 +14,6 @@ tags:
 ## 本日の入院中のメニュー
 
 - [x] 胆嚢への治療で抗生剤を点滴
-
   - [x] 10：00AM
   - [x] 8：00PM
 

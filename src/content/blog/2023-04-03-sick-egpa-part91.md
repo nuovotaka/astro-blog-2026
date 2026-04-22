@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-04-03T09:00:00+09:00
+pubDate: 2023-04-03T09:00:00+09:00
 title: '2023/04/03 消化器内科 受診'
 description: '胆嚢の壁はどうなっているか？'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

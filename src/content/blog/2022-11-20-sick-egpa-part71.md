@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-11-20T09:00:00+09:00
+pubDate: 2022-11-20T09:00:00+09:00
 title: '本日よりこの前処方されたお薬を服薬する'
 description: 'プレドニンが減薬されている'
 author: nuovotaka

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-08-24T09:00:00+09:00
+pubDate: 2018-08-24T09:00:00+09:00
 title: 指定難病
 description: nuovotaka blog
 author: nuovotaka

@@ -3,7 +3,7 @@ draft: false
 title: TinaCMSを組み込みました
 description: 更なるテーマの変更とCMSの追加を行いました
 author: nuovotaka
-publishDate: 2023-07-18T06:00:00.000Z
+pubDate: 2023-07-18T06:00:00.000Z
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg
 socialImage: ../../assets/undraw/undraw_blog_post.png
 categories:

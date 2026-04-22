@@ -4,7 +4,7 @@ title: '抹茶きなこ・パウンドケーキ（試作）'
 description: '抹茶ときなこのパウンドケーキを試作してみました。甘納豆を入れると美味しいと思うのだけれど生憎なかったのでどうなるか？'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-05-06T09:00:00+09:00
+pubDate: 2023-05-06T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

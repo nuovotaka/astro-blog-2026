@@ -2,7 +2,7 @@
 draft: false
 title: 英語をゲーム感覚で覚える(実践中！)
 description: nuovotaka blog
-publishDate: 2015-10-26T09:00:00+09:00
+pubDate: 2015-10-26T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

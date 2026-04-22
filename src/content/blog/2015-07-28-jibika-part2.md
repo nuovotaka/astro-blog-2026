@@ -2,7 +2,7 @@
 draft: false
 title: '新種の慢性副鼻腔炎について（耳鼻科）パート２'
 description: nuovotaka blog
-publishDate: 2015-07-28T09:00:00+09:00
+pubDate: 2015-07-28T09:00:00+09:00
 author: nuovotaka
 categories:
   - health

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-11-21T09:00:00+09:00
+pubDate: 2022-11-21T09:00:00+09:00
 title: '本日は消化器内科を受診予定'
 description: 'EGPA の影響と考えられるが色々と治療した結果どうなっているか？'
 author: nuovotaka

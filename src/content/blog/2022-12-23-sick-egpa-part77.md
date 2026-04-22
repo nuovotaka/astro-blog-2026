@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-23T09:00:00+09:00
+pubDate: 2022-12-23T09:00:00+09:00
 title: '2022/12/23 眼科外来受診リスト'
 description: '先日、眼圧が高かったのでお薬を変更しました。その評価を本日する予定です。'
 author: nuovotaka

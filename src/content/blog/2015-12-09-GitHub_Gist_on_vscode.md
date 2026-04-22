@@ -2,7 +2,7 @@
 draft: false
 title: GitHub Gist をVisual Studio Codeで使ってみた
 description: nuovotaka blog
-publishDate: 2015-12-09T09:00:00+09:00
+pubDate: 2015-12-09T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

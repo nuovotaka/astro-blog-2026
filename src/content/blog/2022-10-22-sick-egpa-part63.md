@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-26T09:00:00+09:00
+pubDate: 2022-10-26T09:00:00+09:00
 title: '2022/10/26 から予定入院します。'
 description: '三日間の予定です'
 author: nuovotaka

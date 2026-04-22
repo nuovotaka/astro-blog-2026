@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-19T09:00:00+09:00
+pubDate: 2022-12-19T09:00:00+09:00
 title: 'ページネーションを戻しました'
 description: '詳細ページへ遷移できない事象が発生しており元のページ送りに戻しました。また、Next.js13 ではなく安定している Next.js12 に戻しました。'
 author: nuovotaka

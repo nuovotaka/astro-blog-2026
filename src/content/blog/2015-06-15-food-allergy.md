@@ -2,7 +2,7 @@
 draft: false
 title: '食物アレルギーで大変なコトになる前に食生活改善を！'
 description: nuovotaka blog
-publishDate: 2015-06-15T09:00:00+09:00
+pubDate: 2015-06-15T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

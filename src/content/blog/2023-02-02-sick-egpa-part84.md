@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-02-02T09:00:00+09:00
+pubDate: 2023-02-02T09:00:00+09:00
 title: '2023/02/02 ヌーカラ注射'
 description: '午後にヌーカラ自己注射します'
 author: nuovotaka

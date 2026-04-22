@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2024-10-04T09:00:00+09:00
+pubDate: 2024-10-04T09:00:00+09:00
 title: '2024/10/04 現在のEGPAの症状について'
 description: '血液検査の結果待ち'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

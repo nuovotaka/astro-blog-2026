@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2020-02-21T09:00:00+09:00
+pubDate: 2020-02-21T09:00:00+09:00
 title: 緑内障,眼圧、視力、視野検査
 description: nuovotaka blog
 author: nuovotaka

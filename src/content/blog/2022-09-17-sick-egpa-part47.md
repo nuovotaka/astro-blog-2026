@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-17T09:00:00+09:00
+pubDate: 2022-09-17T09:00:00+09:00
 title: '退院しました'
 description: '家で寛いでます。'
 author: nuovotaka

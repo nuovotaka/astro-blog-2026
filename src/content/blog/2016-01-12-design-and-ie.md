@@ -2,7 +2,7 @@
 draft: false
 title: WebデザインとIE問題
 description: nuovotaka blog
-publishDate: 2016-01-12T09:00:00+09:00
+pubDate: 2016-01-12T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

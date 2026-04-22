@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2024-10-28T08:00:00+09:00
+pubDate: 2024-10-28T08:00:00+09:00
 title: '2024/10/28 現在のEGPAの症状について'
 description: '点滴入院となりました'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

@@ -2,7 +2,7 @@
 draft: false
 title: '食物アレルギーとトランス脂肪酸'
 description: nuovotaka blog
-publishDate: 2015-06-19T09:00:00+09:00
+pubDate: 2015-06-19T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

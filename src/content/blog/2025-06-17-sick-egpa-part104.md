@@ -1,11 +1,11 @@
 ---
 draft: false
-publishDate: 2025-06-17T09:00:00+09:00
 title: '2025/06/17 ファセンラという注射を打つようになりました'
 description: 'ヌーカラからファセンラという注射に変更になりました'
+author: nuovotaka
+pubDate: 2025-06-17T09:00:00+09:00
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg
 socialImage: ../../assets/undraw/undraw_doctors.png
-author: nuovotaka
 categories:
   - health
 tags:

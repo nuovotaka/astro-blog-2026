@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-06-08T09:00:00+09:00
+pubDate: 2018-06-08T09:00:00+09:00
 title: sickhifuka
 description: nuovotaka blog
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

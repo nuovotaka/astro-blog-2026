@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-03-30T09:00:00+09:00
+pubDate: 2022-03-30T09:00:00+09:00
 title: '暗号資産を保管するUSBサイズの財布を買ってみました'
 description: nuovotaka blog
 author: nuovotaka

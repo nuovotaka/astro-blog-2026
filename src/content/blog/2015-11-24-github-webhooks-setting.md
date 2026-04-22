@@ -2,7 +2,7 @@
 draft: false
 title: Github Webhooks Setting
 description: nuovotaka blog
-publishDate: 2015-11-24T09:00:00+09:00
+pubDate: 2015-11-24T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

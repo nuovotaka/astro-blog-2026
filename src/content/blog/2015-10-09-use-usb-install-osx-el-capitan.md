@@ -2,7 +2,7 @@
 draft: false
 title: OS X El Capitan インストールUSBよりクリーンインストール
 description: nuovotaka blog
-publishDate: 2015-10-09T09:00:00+09:00
+pubDate: 2015-10-09T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-04T09:00:00+09:00
+pubDate: 2022-09-04T09:00:00+09:00
 title: 'プレドニン 40mg/日スタート'
 description: '朝 5mgx5 錠、昼 5mgx3 錠からスタートしました'
 author: nuovotaka

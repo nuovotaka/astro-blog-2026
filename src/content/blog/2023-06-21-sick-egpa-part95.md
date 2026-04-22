@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-06-21T09:00:00+09:00
+pubDate: 2023-06-21T09:00:00+09:00
 title: '2023/06/21 膠原病・リウマチ科 受診'
 description: 'ヌーカラ自己注射の日でもあります。'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

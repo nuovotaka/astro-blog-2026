@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-08-14T09:00:00+09:00
+pubDate: 2022-08-14T09:00:00+09:00
 title: 'Blog の移行作業をコツコツと行っていました'
 description: 'goHugo からの移行'
 author: nuovotaka

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-03-19T09:00:00+09:00
+pubDate: 2023-03-19T09:00:00+09:00
 title: 'ブログのテーマを変更しました'
 description: '機能が以前より追加されたので変更しました。'
 author: nuovotaka

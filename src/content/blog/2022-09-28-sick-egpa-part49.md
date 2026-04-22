@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-28T09:00:00+09:00
+pubDate: 2022-09-28T09:00:00+09:00
 title: 'お薬が自分の免疫反応に負けている感じがする'
 description: 'お薬が効いていない感じがする。'
 author: nuovotaka

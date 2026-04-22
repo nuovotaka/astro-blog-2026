@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-18T09:00:00+09:00
+pubDate: 2022-12-18T09:00:00+09:00
 title: 'Next.js13 ライブアップデート(easy-notion-blog)'
 description: '2022/12/17 昨夜のライブアップデートを観て大変勉強になりました'
 author: nuovotaka

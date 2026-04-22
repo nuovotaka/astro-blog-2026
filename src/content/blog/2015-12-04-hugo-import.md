@@ -2,7 +2,7 @@
 draft: false
 title: Hugo import jekyll コマンドが追加
 description: nuovotaka blog
-publishDate: 2015-12-04T09:00:00+09:00
+pubDate: 2015-12-04T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

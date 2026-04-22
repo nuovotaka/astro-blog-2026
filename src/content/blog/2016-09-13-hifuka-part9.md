@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2016-09-13T09:00:00+09:00
+pubDate: 2016-09-13T09:00:00+09:00
 title: 風邪と発疹（皮膚科）パート9
 description: nuovotaka blog
 author: nuovotaka

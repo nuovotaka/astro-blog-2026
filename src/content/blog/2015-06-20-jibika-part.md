@@ -2,7 +2,7 @@
 draft: false
 title: '慢性副鼻腔炎になってしまった！'
 description: nuovotaka blog
-publishDate: 2015-06-20T09:00:00+09:00
+pubDate: 2015-06-20T09:00:00+09:00
 author: nuovotaka
 categories:
   - health

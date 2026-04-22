@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-09T09:00:00+09:00
+pubDate: 2022-12-09T09:00:00+09:00
 title: '2022/12/09 眼科外来受診 リスト'
 description: 'EGPA のお薬の副作用で緑内障の心配があるので受診をしております。'
 author: nuovotaka

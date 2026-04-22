@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-15T09:00:00+09:00
+pubDate: 2022-09-15T09:00:00+09:00
 title: '今朝採血しました'
 description: '採血結果はまだわからないけれど結果次第で退院になるかな？'
 author: nuovotaka

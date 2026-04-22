@@ -2,7 +2,7 @@
 draft: false
 title: MacBookPro late2013の修理
 description: nuovotaka blog
-publishDate: 2018-09-08T09:00:00+09:00
+pubDate: 2018-09-08T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

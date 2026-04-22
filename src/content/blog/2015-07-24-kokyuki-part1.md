@@ -2,7 +2,7 @@
 draft: false
 title: '新種の慢性副鼻腔炎が発生している本当のところ(呼吸器)パート１'
 description: nuovotaka blog
-publishDate: 2015-07-24T09:00:00+09:00
+pubDate: 2015-07-24T09:00:00+09:00
 author: nuovotaka
 categories:
   - health

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-11-15T09:00:00+09:00
+pubDate: 2018-11-15T09:00:00+09:00
 title: プレドニン15mgに減量
 description: nuovotaka blog
 author: nuovotaka

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-03-29T09:00:00+09:00
+pubDate: 2023-03-29T09:00:00+09:00
 title: '2023/03/29 膠原病・リウマチ科 外来受診'
 description: '診察、ヌーカラ自己注射日'
 author: nuovotaka

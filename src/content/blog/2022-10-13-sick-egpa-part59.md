@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-13T09:00:00+09:00
+pubDate: 2022-10-13T09:00:00+09:00
 title: '2022/10/13 の治療 ❤️‍🩹 リスト'
 description: '10/13(木)の治療 ❤️‍🩹 リスト'
 author: nuovotaka

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-09-27T09:00:00+09:00
+pubDate: 2018-09-27T09:00:00+09:00
 title: お薬は20mgそのままで
 description: nuovotaka blog
 author: nuovotaka

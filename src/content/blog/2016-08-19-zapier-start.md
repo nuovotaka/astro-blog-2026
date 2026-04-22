@@ -2,7 +2,7 @@
 draft: false
 title: zapier で連携してみた
 description: nuovotaka blog
-publishDate: 2016-08-19T09:00:00+09:00
+pubDate: 2016-08-19T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

@@ -4,7 +4,7 @@ title: '自作キーボード作りました'
 description: 'freeadrs32_knobというキーボードを作りました'
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg
 socialImage: ../../assets/undraw/undraw_blog_post.png
-publishDate: 2024-08-05T09:00:00+09:00
+pubDate: 2024-08-05T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

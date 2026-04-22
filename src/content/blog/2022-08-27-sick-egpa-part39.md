@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-08-27T09:00:00+09:00
+pubDate: 2022-08-27T09:00:00+09:00
 title: '再燃確定？'
 description: '月曜日に総合病院へ行く予定'
 author: nuovotaka

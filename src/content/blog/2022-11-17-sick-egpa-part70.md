@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-11-17T09:00:00+09:00
+pubDate: 2022-11-17T09:00:00+09:00
 title: '2022/11/17 外来受診 🏥 リスト'
 description: '11/17(木) 外来受診 🏥 リスト'
 author: nuovotaka

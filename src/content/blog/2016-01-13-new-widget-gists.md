@@ -2,7 +2,7 @@
 draft: false
 title: 新しい widget が追加されました
 description: nuovotaka blog
-publishDate: 2016-01-13T09:00:00+09:00
+pubDate: 2016-01-13T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

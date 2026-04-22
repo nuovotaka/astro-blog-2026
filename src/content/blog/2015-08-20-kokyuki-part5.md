@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2015-08-20T09:00:00+09:00
+pubDate: 2015-08-20T09:00:00+09:00
 title: '新種の慢性副鼻腔炎について（呼吸器）パート5'
 description: nuovotaka blog
 author: nuovotaka

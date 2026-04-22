@@ -2,7 +2,7 @@
 draft: false
 title: Titan セキュリティー キー
 description: nuovotaka blog
-publishDate: 2019-08-25T09:00:00+09:00
+pubDate: 2019-08-25T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

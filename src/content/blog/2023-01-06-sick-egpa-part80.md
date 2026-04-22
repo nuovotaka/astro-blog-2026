@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-01-06T09:00:00+09:00
+pubDate: 2023-01-06T09:00:00+09:00
 title: '2023/01/06 眼科外来受診リスト'
 description: '眼圧が下がっているか？'
 author: nuovotaka
@@ -15,7 +15,6 @@ tags:
 
 - [x] 眼圧検査
 - [x] 診察
-
   - [x] 14:30
 
 - 検査の結果は？

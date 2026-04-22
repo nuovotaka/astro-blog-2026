@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-02-24T09:00:00+09:00
+pubDate: 2023-02-24T09:00:00+09:00
 title: 'astro notion blog のサイドバー目次追随'
 description: 'HTML, CSS, JavaScript で記述(参考コードを変更)'
 author: nuovotaka

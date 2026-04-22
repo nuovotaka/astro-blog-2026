@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-04-11T09:00:00+09:00
+pubDate: 2023-04-11T09:00:00+09:00
 title: '2023/04/11 呼吸器・アレルギー内科 受診'
 description: '前回の NO 検査で基準値となったが。。。'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

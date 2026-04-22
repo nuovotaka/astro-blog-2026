@@ -2,7 +2,7 @@
 draft: false
 title: OS X El Capitan クリーンインストールが１日作業となりました
 description: nuovotaka blog
-publishDate: 2015-10-03T09:00:00+09:00
+pubDate: 2015-10-03T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

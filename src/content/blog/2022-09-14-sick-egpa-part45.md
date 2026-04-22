@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-14T09:00:00+09:00
+pubDate: 2022-09-14T09:00:00+09:00
 title: '採血結果で退院が早まるかも？'
 description: '明日の採血結果で退院早まるかも？'
 author: nuovotaka

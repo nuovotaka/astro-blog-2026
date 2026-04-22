@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2021-05-15T09:00:00+09:00
+pubDate: 2021-05-15T09:00:00+09:00
 title: コストコで眼鏡を購入しました
 description: nuovotaka blog
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg

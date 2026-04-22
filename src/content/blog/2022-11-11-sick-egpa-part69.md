@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-11-11T09:00:00+09:00
+pubDate: 2022-11-11T09:00:00+09:00
 title: '2022/11/11 退院'
 description: '11/11(金) 退院'
 author: nuovotaka

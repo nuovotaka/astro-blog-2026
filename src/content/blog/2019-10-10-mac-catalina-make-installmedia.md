@@ -2,7 +2,7 @@
 draft: false
 title: 備忘録 - MacOS Catalinaのインストールメディアの作成方法
 description: nuovotaka blog
-publishDate: 2019-10-10T09:00:00+09:00
+pubDate: 2019-10-10T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

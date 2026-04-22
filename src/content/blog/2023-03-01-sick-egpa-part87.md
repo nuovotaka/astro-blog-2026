@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-03-01T09:00:00+09:00
+pubDate: 2023-03-01T09:00:00+09:00
 title: '2023/03/01 膠原病・リウマチ科外来受診リスト'
 description: '3/1 外来受診'
 author: nuovotaka

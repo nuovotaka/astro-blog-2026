@@ -2,7 +2,7 @@
 draft: false
 title: 'google analytics'
 description: nuovotaka blog
-publishDate: 2017-11-24T09:00:00+09:00
+pubDate: 2017-11-24T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

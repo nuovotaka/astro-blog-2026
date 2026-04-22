@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-08T09:00:00+09:00
+pubDate: 2022-12-08T09:00:00+09:00
 title: 'ブログのページネーションについて'
 description: 'ブログのページネーションについて'
 author: nuovotaka
@@ -73,7 +73,8 @@ function Pagination() {
           key={number}
           id={number}
           onClick={handleClick}
-          className={currentPage == number ? 'active' : null}>
+          className={currentPage == number ? 'active' : null}
+        >
           {number}
         </li>
       )
@@ -137,7 +138,8 @@ function Pagination() {
         <li>
           <button
             onClick={handleNextbtn}
-            disabled={currentPage == pages[pages.length - 1] ? true : false}>
+            disabled={currentPage == pages[pages.length - 1] ? true : false}
+          >
             Next
           </button>
         </li>
@@ -287,7 +289,8 @@ const renderPageNumbers = pages.map((number) => {
         key={number}
         id={number}
         onClick={handleClick}
-        className={currentPage.page == number ? `${Mystyles.pagination_active}` : null}>
+        className={currentPage.page == number ? `${Mystyles.pagination_active}` : null}
+      >
         <Link href={'#'} as={`${pathname}?page=${number}`}>
           <span className={Mystyles.pagination_link}>{number}</span>
         </Link>

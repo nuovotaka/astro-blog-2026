@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-01T09:00:00+09:00
+pubDate: 2022-09-01T09:00:00+09:00
 title: '治療中 ❤️‍🩹！'
 description: '治療中'
 author: nuovotaka

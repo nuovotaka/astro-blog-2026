@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-09-02T09:00:00+09:00
+pubDate: 2018-09-02T09:00:00+09:00
 title: お薬減量で20mgに
 description: nuovotaka blog
 author: nuovotaka

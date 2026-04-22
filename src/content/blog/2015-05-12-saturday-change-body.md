@@ -2,7 +2,7 @@
 draft: false
 title: '土曜日に状態が悪化'
 description: nuovotaka blog
-publishDate: 2015-05-12T09:00:00+09:00
+pubDate: 2015-05-12T09:00:00+09:00
 author: nuovotaka
 categories:
   - health

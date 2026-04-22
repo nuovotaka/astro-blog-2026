@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-08-22T09:00:00+09:00
+pubDate: 2022-08-22T09:00:00+09:00
 title: '再燃か？'
 description: '再燃なのか？'
 author: nuovotaka

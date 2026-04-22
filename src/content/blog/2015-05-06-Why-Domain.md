@@ -2,7 +2,7 @@
 draft: false
 title: '元々ドメイン取ろうと考えたのも同じ発想？！'
 description: nuovotaka blog
-publishDate: 2015-05-06T09:00:00+09:00
+pubDate: 2015-05-06T09:00:00+09:00
 author: nuovotaka
 categories:
   - general

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-09-29T09:00:00+09:00
+pubDate: 2023-09-29T09:00:00+09:00
 title: '2023/09/29 膠原病・リウマチ科 更新'
 description: 'EGPA 更新'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

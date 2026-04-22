@@ -2,7 +2,7 @@
 draft: false
 title: 'Loto7当たったのでドメイン取ってみた'
 description: nuovotaka blog
-publishDate: 2015-02-05T09:00:00+09:00
+pubDate: 2015-02-05T09:00:00+09:00
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg
 socialImage: ../../assets/undraw/undraw_blog_post.png
 author: nuovotaka

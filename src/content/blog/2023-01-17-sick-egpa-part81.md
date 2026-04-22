@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-01-17T09:00:00+09:00
+pubDate: 2023-01-17T09:00:00+09:00
 title: '2023/01/17 呼吸器外来受診リスト'
 description: '喘息の症状なし。極めて安定していますが。。。'
 author: nuovotaka

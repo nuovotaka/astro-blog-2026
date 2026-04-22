@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2023-09-29T09:00:00+09:00
+pubDate: 2023-09-29T09:00:00+09:00
 title: 'がま口の口金を利用したお薬手帳を作りました'
 description: '今回は失敗作 - 帆布を使ったのが間違いでした'
 author: nuovotaka

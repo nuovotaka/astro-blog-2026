@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-08-30T09:00:00+09:00
+pubDate: 2022-08-30T09:00:00+09:00
 title: '今日から入院します'
 description: '入院します'
 author: nuovotaka

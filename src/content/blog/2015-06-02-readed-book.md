@@ -2,7 +2,7 @@
 draft: false
 title: 'やっと読み終えました「ちきりん」さんの働き方について'
 description: nuovotaka blog
-publishDate: 2015-06-02T09:00:00+09:00
+pubDate: 2015-06-02T09:00:00+09:00
 author: nuovotaka
 categories:
   - information

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-28T09:00:00+09:00
+pubDate: 2022-12-28T09:00:00+09:00
 title: '採血納め？してきました。'
 description: '本年は本日で病院の通院は終了。'
 author: nuovotaka

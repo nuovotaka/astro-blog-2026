@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2019-08-15T09:00:00+09:00
+pubDate: 2019-08-15T09:00:00+09:00
 title: 緑内障の点眼薬を処方
 description: nuovotaka blog
 author: nuovotaka

@@ -4,7 +4,7 @@ title: 'ドライフルーツ・パウンドケーキ(備忘録)'
 description: '今回は、レーズンとキウイのドライフルーツを使って作りました'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-04-20T09:00:00+09:00
+pubDate: 2023-04-20T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

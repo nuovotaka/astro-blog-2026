@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2016-04-08T09:00:00+09:00
+pubDate: 2016-04-08T09:00:00+09:00
 title: 風邪と発疹（皮膚科）パート6
 description: nuovotaka blog
 author: nuovotaka

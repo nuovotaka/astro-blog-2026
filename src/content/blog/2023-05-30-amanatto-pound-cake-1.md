@@ -4,7 +4,7 @@ title: '甘納豆・パウンドケーキ（備忘録）'
 description: '昨日作ったものを試食してみたら美味しかったので記録しておく'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-05-30T09:00:00+09:00
+pubDate: 2023-05-30T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2019-08-29T09:00:00+09:00
+pubDate: 2019-08-29T09:00:00+09:00
 title: 緑内障の眼圧検査と副作用検査
 description: nuovotaka blog
 author: nuovotaka

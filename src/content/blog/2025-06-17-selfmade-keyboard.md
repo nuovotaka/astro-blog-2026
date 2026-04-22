@@ -4,7 +4,7 @@ title: '自動キーボード作成ツールを利用して自作キーボード
 description: 'Split-40pct-alphaというキーボードを作りました'
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg
 socialImage: ../../assets/undraw/undraw_blog_post.png
-publishDate: 2025-06-17T09:00:00+09:00
+pubDate: 2025-06-17T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

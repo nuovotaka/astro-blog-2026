@@ -4,7 +4,7 @@ title: '抹茶・パウンドケーキ（備忘録）'
 description: '抹茶の量を増やして作ってみました。餡子と合わせて食べると美味しかったです。'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-04-24T09:00:00+09:00
+pubDate: 2023-04-24T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

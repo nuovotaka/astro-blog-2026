@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-15T09:00:00+09:00
+pubDate: 2022-10-15T09:00:00+09:00
 title: '2022/10/15 退院'
 description: '10/15(土) 退院'
 author: nuovotaka

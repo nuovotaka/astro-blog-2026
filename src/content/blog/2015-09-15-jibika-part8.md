@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2015-09-15T09:00:00+09:00
+pubDate: 2015-09-15T09:00:00+09:00
 title: 新種の慢性副鼻腔炎について（耳鼻科）パート８
 description: nuovotaka blog
 author: nuovotaka

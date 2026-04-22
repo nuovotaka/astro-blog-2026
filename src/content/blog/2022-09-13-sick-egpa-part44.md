@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-13T09:00:00+09:00
+pubDate: 2022-09-13T09:00:00+09:00
 title: '血糖値のお薬が追加になりそうです。'
 description: 'プレドニンは少なくなりそうです。そして、血糖値のお薬が追加になりそうです。'
 author: nuovotaka

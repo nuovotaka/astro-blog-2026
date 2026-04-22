@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2018-10-18T09:00:00+09:00
+pubDate: 2018-10-18T09:00:00+09:00
 title: お薬は17.5mgに減量
 description: nuovotaka blog
 author: nuovotaka

@@ -2,7 +2,7 @@
 draft: false
 title: Wercker yaml file の boxを変更してみた
 description: nuovotaka blog
-publishDate: 2016-01-27T09:00:00+09:00
+pubDate: 2016-01-27T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

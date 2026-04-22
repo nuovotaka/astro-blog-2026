@@ -2,7 +2,7 @@
 draft: false
 title: '光 ネクスト 隼 品目変更で得られた利点'
 description: nuovotaka blog
-publishDate: 2013-07-08T09:00:00+09:00
+pubDate: 2013-07-08T09:00:00+09:00
 author: nuovotaka
 categories:
   - general

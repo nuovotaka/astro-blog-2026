@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-11T09:00:00+09:00
+pubDate: 2022-10-11T09:00:00+09:00
 title: '2022/10/11 の治療 ❤️‍🩹 リスト'
 description: '10/11(火)の治療 ❤️‍🩹 リスト'
 author: nuovotaka
@@ -17,7 +17,6 @@ tags:
   - [x] 朝 ４錠
   - [x] 昼 ２錠
 - [x] 腸の調子を整える
-
   - [x] ミヤ BM 朝
 
 - [x] 血糖値測定

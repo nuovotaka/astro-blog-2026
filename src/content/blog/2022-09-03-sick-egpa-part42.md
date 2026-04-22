@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-09-03T09:00:00+09:00
+pubDate: 2022-09-03T09:00:00+09:00
 title: 'ステロイドパルス終了'
 description: 'ステロイドパルス終了'
 author: nuovotaka

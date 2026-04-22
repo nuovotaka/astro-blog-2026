@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2024-11-12T09:00:00+09:00
+pubDate: 2024-11-12T09:00:00+09:00
 title: '2024/11/12 入院していました'
 description: '退院しました'
 coverSVG: ../../assets/svg/undraw/undraw_doctors.svg

@@ -2,7 +2,7 @@
 draft: false
 title: '新種の慢性副鼻腔炎について（呼吸器）パート３'
 description: nuovotaka blog
-publishDate: 2015-08-01T09:00:00+09:00
+pubDate: 2015-08-01T09:00:00+09:00
 author: nuovotaka
 categories:
   - health

@@ -4,7 +4,7 @@ title: 'アップルシナモンパウンドケーキ（備忘録）'
 description: 'りんごがあったので作ってみました'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-05-06T09:00:00+09:00
+pubDate: 2023-05-06T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

@@ -4,7 +4,7 @@ title: '全粒粉ベーグル（備忘録）'
 description: 'food'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-07-29T09:00:00+09:00
+pubDate: 2023-07-29T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

@@ -2,7 +2,7 @@
 draft: false
 title: Forbidden codeについて
 description: nuovotaka blog
-publishDate: 2016-02-05T09:00:00+09:00
+pubDate: 2016-02-05T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

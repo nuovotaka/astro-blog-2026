@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-10-02T09:00:00+09:00
+pubDate: 2022-10-02T09:00:00+09:00
 title: 'ガーデンパーク'
 description: '以前の動画です'
 author: nuovotaka

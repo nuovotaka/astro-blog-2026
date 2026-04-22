@@ -2,7 +2,7 @@
 draft: false
 title: 'コストコのGSのオープニング画面に変化が!'
 description: nuovotaka blog
-publishDate: 2016-08-16T09:00:00+09:00
+pubDate: 2016-08-16T09:00:00+09:00
 author: nuovotaka
 categories:
   - general

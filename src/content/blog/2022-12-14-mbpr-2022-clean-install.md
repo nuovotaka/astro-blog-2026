@@ -1,6 +1,6 @@
 ---
 draft: false
-publishDate: 2022-12-14T09:00:00+09:00
+pubDate: 2022-12-14T09:00:00+09:00
 title: 'MacBook Pro のクリーンインストール'
 description: 'ドットファイルに問題が！！Zinit で不具合発生、原因は？'
 author: nuovotaka

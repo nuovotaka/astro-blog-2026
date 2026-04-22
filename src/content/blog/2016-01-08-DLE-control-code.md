@@ -2,7 +2,7 @@
 draft: false
 title: DLE control codeが編集で入りエラーとなった
 description: nuovotaka blog
-publishDate: 2016-01-08T09:00:00+09:00
+pubDate: 2016-01-08T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer

@@ -4,7 +4,7 @@ title: '黒胡麻・パウンドケーキ（試作）'
 description: '黒胡麻のパウンドケーキを試作してみました'
 coverSVG: ../../assets/svg/undraw/undraw_chef.svg
 socialImage: ../../assets/undraw/undraw_chef.png
-publishDate: 2023-05-03T09:00:00+09:00
+pubDate: 2023-05-03T09:00:00+09:00
 author: nuovotaka
 categories:
   - food

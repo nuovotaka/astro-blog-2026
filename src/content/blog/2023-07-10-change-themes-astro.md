@@ -4,7 +4,7 @@ title: 'テーマを変更しました'
 description: 'astroというソフトのテーマでyoutubeが表示できるものにしました'
 coverSVG: ../../assets/svg/undraw/undraw_blog_post.svg
 socialImage: ../../assets/undraw/undraw_blog_post.png
-publishDate: 2023-07-10T09:00:00+09:00
+pubDate: 2023-07-10T09:00:00+09:00
 author: nuovotaka
 categories:
   - computer
