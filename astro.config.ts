@@ -5,7 +5,6 @@ import tailwindcss from '@tailwindcss/vite'
 import alpinejs from '@astrojs/alpinejs'
 import robotsTxt from 'astro-robots-txt'
 import plantuml from 'astro-plantuml'
-import mermaid from 'astro-mermaid'
 import { unified } from '@astrojs/markdown-remark';
 import remarkMath from 'remark-math'
 import remarkEmoji from 'remark-emoji'
@@ -35,8 +34,7 @@ export default defineConfig({
     robotsTxt(),
     markdoc(),
     mdx(),
-    plantuml(),
-    mermaid()
+    plantuml()
   ],
   markdown: {
     processor: unified(),
